@@ -21,5 +21,9 @@ public class Plateau {
 		return cases[numCase];
 	}
 	
+	public Case caseDebutPartie() {
+		return cases[0];
+	}
+ 	
 
 }
