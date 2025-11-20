@@ -13,9 +13,10 @@ public class Plateau {
 		}
 	}
 	
-	private void initialisationCaseSpecifique() {
+	// Pour les cases spécifiques 
+	/*private void initialisationCaseSpecifique() {
 		
-	}
+	}*/
 	
 	public Case donnerCase(int numCase) {
 		return cases[numCase];

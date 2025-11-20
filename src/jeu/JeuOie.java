@@ -17,7 +17,7 @@ public class JeuOie {
             oies[nbOie] = new Oie(couleur, plateau, de);
             nbOie++;
         } else {
-            // TODO else ajouter oie
+            System.out.println("nombre d'oie maximum atteint");
         }
 
     }
